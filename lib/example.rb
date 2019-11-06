@@ -12,4 +12,4 @@ puts phrase
 puts phrase
 puts phrase
 end
-greeting(9)
+greeting(10)
